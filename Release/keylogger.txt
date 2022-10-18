@@ -1,0 +1,14 @@
+
+Sat Jun 25 14:24:01 2022
+	 ca       [Right Arrow] [Right Arrow] [Right Arrow] [Right Arrow] [Right Arrow] [Right Arrow] [Esc]            1  [Enter]
+     WET [Enter]
+ [Caps Lock]sasdfgh [Caps Lock] [Enter]
+1 2 3 3 4 4 5 6 7 7 8 9  ! @ @ # # $ # $ %  [Enter]
+ 7 8 9 5 3 [+] [-] [Space] [F1] [F2]  [F10] [F11] [F12] [Left Win]                             
+Sun Jun 26 09:38:40 2022
+	  [BackSpace]  [BackSpace] [Ctrl]s [Caps Lock] [BackSpace] [BackSpace] [Ctrl]s [Caps Lock] [Ctrl]zzzzzzz [BackSpace]  [Ctrl]c  [Ctrl]v [Ctrl]s      [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [BackSpace] [Ctrl]s [Caps Lock]   [BackSpace] [Ctrl]s  
+Mon Jun 27 11:03:38 2022
+	                   [Enter]
+       
+Tue Oct 18 22:26:26 2022
+	  [Space]    
